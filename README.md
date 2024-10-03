@@ -3,4 +3,4 @@ I used [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) po
 
 ### The screenshot of this one page site
 
-![](assets/img/screenshot.png)
+![](assets/img/screenshot-karibayasmin_github_io-2024_10_03-22_28_30.png)
